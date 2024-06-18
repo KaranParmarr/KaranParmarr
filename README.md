@@ -40,3 +40,4 @@ src="https://img.shields.io/github/followers/KaranParmarr?logo=github&style=for-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanparmarr&" alt="karanparmarr" /></p>
 
+<div width="100%" align="center"><a href="https://github.com/KaranParmarr/Karan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranParmarr&repo=KaranParmarr&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KaranParmarr" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranParmarr&repo=KaranParmarr&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
