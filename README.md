@@ -38,4 +38,4 @@ src="https://img.shields.io/github/followers/KaranParmarr?logo=github&style=for-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanparmarr&show_icons=true&locale=en" alt="karanparmarr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanparmarr&" alt="karanparmarr" /></p>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31yesizzwcbl7f23p4tpnih7lkma&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31yesizzwcbl7f23p4tpnih7lkma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4e59b1&bar_color_cover=false)]]
+
