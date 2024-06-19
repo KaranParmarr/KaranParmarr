@@ -38,8 +38,4 @@ src="https://img.shields.io/github/followers/KaranParmarr?logo=github&style=for-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanparmarr&show_icons=true&locale=en" alt="karanparmarr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanparmarr&" alt="karanparmarr" /></p>
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/KaranParmarr/KaranParmarr/output/snake.svg" alt="Snake animation" />
-
-###
