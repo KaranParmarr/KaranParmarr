@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to work on Hacking
 - 💬 Ask me about Technology
 - 📫 How to reach me **official.karanparmar@gmail.com**
-- ⚡ Fun fact: I'm currently studying B.Sc Information technology
+- ⚡ Fun fact: I'm currently studying B.Sc Information Technology
 
 <a href="https://www.github.com/KaranParmarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KaranParmarr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
