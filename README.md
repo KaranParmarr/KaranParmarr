@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://twitter.com/https://x.com/parmar_karann" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/parmar_karann?logo=twitter&style=for-the-badge" alt="https://x.com/parmar_karann" /></a> </p>
 
 - 🌱 I’m currently learning **C++ , dart , nodejs**
-- 🌱 I’m Interested to work on Hacking
+- 🌱 I’m Interested to work on Hackathons
 - 💬 Ask me about Technology
 - 📫 How to reach me **official.karanparmar@gmail.com**
 - ⚡ Fun fact: I'm currently studying B.Sc Information Technology
